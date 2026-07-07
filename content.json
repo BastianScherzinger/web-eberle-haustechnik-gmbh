@@ -1,0 +1,67 @@
+{
+  "site_name": "Eberle Haustechnik GmbH",
+  "branche": "Heizungsbauer",
+  "stadt": "Reutlingen",
+  "telefon": "",
+  "email": "",
+  "adresse": "Lange Morgen 9 72768 Reutlingen (Sickenhausen)",
+  "akzent": "#c0392b",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Heizungsbauer aus Reutlingen",
+  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
+  "ueber_titel": "Über uns",
+  "ueber_text": "Eberle Haustechnik GmbH ist Ihr verlässlicher Partner für Heizungsbauer in Reutlingen. Persönlich, gründlich und termintreu.",
+  "leistungen": [
+    {
+      "titel": "Beratung",
+      "text": "Persönlich und auf Ihr Projekt zugeschnitten."
+    },
+    {
+      "titel": "Ausführung",
+      "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."
+    },
+    {
+      "titel": "Service",
+      "text": "Auch nach Abschluss für Sie da."
+    }
+  ],
+  "cta_text": "Jetzt unverbindlich anfragen",
+  "seo_title": "Eberle Haustechnik GmbH — Heizungsbauer Reutlingen",
+  "seo_desc": "Heizungsbauer aus Reutlingen.Jetzt anfragen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "sanitaer.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Heizungswartung",
+        "ab": 120,
+        "bis": 260
+      },
+      {
+        "name": "Heizkörper tauschen",
+        "ab": 400,
+        "bis": 1200
+      },
+      {
+        "name": "Heizung erneuern",
+        "ab": 8000,
+        "bis": 18000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
+}
