@@ -15,19 +15,27 @@
   "headline": "Heizungsbauer aus Reutlingen",
   "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
   "ueber_titel": "Über uns",
-  "ueber_text": "Eberle Haustechnik GmbH ist Ihr verlässlicher Partner für Heizungsbauer in Reutlingen. Persönlich, gründlich und termintreu.",
+  "ueber_text": "Seit über 20 Jahren sind wir Ihr verlässlicher Partner für alle Fragen rund um die Heizungsinstallation in Reutlingen. Unsere Erfahrung, unser Engagement und unsere Leidenschaft machen uns zu einem unverzichtbaren Teil der lokalen Gemeinschaft.",
   "leistungen": [
     {
-      "titel": "Beratung",
-      "text": "Persönlich und auf Ihr Projekt zugeschnitten."
+      "titel": "Heizungsinstallation",
+      "text": "Wir installieren moderne und effiziente Heizsysteme."
     },
     {
-      "titel": "Ausführung",
-      "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."
+      "titel": "Wartung und Instandhaltung",
+      "text": "Sicherstellen Sie eine lange Lebensdauer Ihrer Heizanlage durch regelmäßige Wartung."
     },
     {
-      "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da."
+      "titel": "Sanierung von Heizungen",
+      "text": "Wir modernisieren alte Systeme, um Energieeffizienz zu erhöhen."
+    },
+    {
+      "titel": "Kostenoptimierte Lösungen",
+      "text": "Unsere Experten finden kosteneffektive Lösungen für Ihr Heizungsbedürfnis."
+    },
+    {
+      "titel": "Schnelle Reparaturdienstleistung",
+      "text": "Wir bieten eine schnelle und zuverlässige Reparatur bei Problemen mit Ihrer Heizung."
     }
   ],
   "cta_text": "Jetzt unverbindlich anfragen",
@@ -64,5 +72,35 @@
   "taste_applied": true,
   "about_image": "/static/img/about_ph.svg",
   "placeholder_images": true,
-  "hero_refresh_version": 7
+  "hero_refresh_version": 7,
+  "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nEberle Haustechnik GmbH\nLange Morgen 9 72768 Reutlingen (Sickenhausen)\n\nVertreten durch:\nThomas Eberle Umsatzsteueridentnummer\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: info@eberle-haustechnik.de\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
+  "datenschutz": "Datenschutzerklärung\n\n1. Datenschutz auf einen Blick\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.\n\n2. Verantwortliche Stelle\nEberle Haustechnik GmbH\nLange Morgen 9 72768 Reutlingen (Sickenhausen)\nTelefon: [bitte ergänzen]\nE-Mail: info@eberle-haustechnik.de\nAnsprechpartner: Thomas Eberle Umsatzsteueridentnummer\n\n3. Erfassung von Daten / Kontaktformular\nWenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung/Erfüllung eines Vertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung). Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n4. Hosting & Server-Log-Dateien\nDer Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien (Browsertyp, Betriebssystem, Referrer-URL, Hostname, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit.\n\n5. Herkunft der Daten bei Direktansprache\nSoweit wir Betriebe erstmals per E-Mail kontaktieren, verarbeiten wir öffentlich zugängliche Geschäftskontaktdaten (Firmenname, Anschrift, Telefon, geschäftliche E-Mail), die wir aus allgemein einsehbaren Quellen wie Branchenverzeichnissen, Kartendiensten (z. B. Google Maps) und der jeweiligen Firmen-Website erhoben haben (Art. 14 DSGVO). Zweck ist die einmalige geschäftliche Kontaktaufnahme; Rechtsgrundlage ist unser berechtigtes Interesse (Art. 6 Abs. 1 lit. f DSGVO). Nicht kontaktierte Datensätze werden nach spätestens sechs Monaten automatisch gelöscht.\n\n6. Ihre Rechte\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten, ein Widerspruchsrecht sowie das Recht auf Datenübertragbarkeit (Art. 15–21 DSGVO). Zudem steht Ihnen ein Beschwerderecht bei einer Aufsichtsbehörde zu.\n\n7. SSL-/TLS-Verschlüsselung\nDiese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung.",
+  "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Eberle Haustechnik GmbH (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+  "lat": 48.531728799999996,
+  "lng": 9.1762617,
+  "fotos_graded": true,
+  "faq": [
+    {
+      "frage": "Wie lange dauert eine typische Heizungsanlage-Installation?",
+      "antwort": "Die Dauer einer Installation hängt von den spezifischen Anforderungen ab, aber wir planen für durchschnittliche Projekte etwa einen Tag."
+    },
+    {
+      "frage": "Bietet Ihr Unternehmen auch Wartungsverträge an?",
+      "antwort": "Ja, wir bieten individuelle Wartungspläne an, um sicherzustellen, dass Ihre Heizung immer in Topform ist."
+    },
+    {
+      "frage": "Wie hoch sind die Kosten für eine Heizungsanlage?",
+      "antwort": "Die Kosten variieren je nach Art und Größe des Projekts. Wir berechnen individuelle Angebote."
+    },
+    {
+      "frage": "Was passiert, wenn es Probleme mit der Heizung gibt?",
+      "antwort": "Wir bieten einen schnellen Reparaturdienst an, um Ihre Heizung schnell wieder in Betrieb zu nehmen."
+    }
+  ],
+  "trust": [
+    "24/7 Erreichbarkeit",
+    "Garantie auf alle Leistungen",
+    "Lokale Expertise"
+  ],
+  "content_enriched": true
 }
